@@ -1,6 +1,6 @@
 ##  👋 Hi, I’m  Koustubh Sinha
-- 👀 I’m interested in Software development and Data science.
-- 🌱 I’m currently in my final year pursing B.Tech in computer science & engineering from Jaypee Institute Of Information Technology.
+
+- 🌱 I’m currently in my final year pursing B.Tech in computer science & engineering from Jaypee Institute Of Information Technology (CGPA-8.2).
 - 💻 I have previously worked as a Full Stack developer Intern at Assert IT Solutions.
 - 💞️ I’m open for collaboration.
 - 🏆 Skills:-C++ , Python , Java, Machine learning algorithms, ReactJS, Node JS.
