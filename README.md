@@ -1,5 +1,5 @@
 ##  👋 Hi, I’m  Koustubh Sinha
-- 👀 I’m interested in programming.
+- 👀 I’m interested in Programming.
 - 🌱 I’m currently in my final year pursing B.Tech in computer science & engineering from Jaypee Institute Of Information Technology.
 - 💻 I have previously worked as a Full Stack developer Intern at Assert IT Solutions.
 - 💞️ I’m open for collaboration.
